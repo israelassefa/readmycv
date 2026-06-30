@@ -37,8 +37,7 @@ The TSEDAY Bank Network Infrastructure Consulting Project focused on designing a
 
 #### 2. 🛠️ [National PKI](https://github.com/Israelassefa/project-two)
 
-The PKI Network Infrastructure Project was a compliance‑driven initiative distinct from other engagements, requiring rigorous standards and secure design. The consulting scope included detailed requirements analysis, preparation of low‑level design documentation, and full implementation to establish a robust public key infrastructure. This ensured secure authentication, 
-data integrity, and regulatory compliance across the enterprise network.
+The PKI Network Infrastructure Project was a compliance‑driven initiative distinct from other engagements, requiring rigorous standards and secure design. Serving as the Technical Manager, I oversaw requirements analysis, guided the preparation of low‑level design documentation, and directed full implementation to establish a robust public key infrastructure. This ensured secure authentication, data integrity, and regulatory compliance across the enterprise network.
 
 ---
 
