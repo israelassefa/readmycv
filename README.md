@@ -61,3 +61,5 @@ TCP/IP | HTTP/HTTPS | FTP/SFTP | SMTP/IMAP/POP3 | DNS | DHCP | SNMP | BGP | OSPF
 💼 LinkedIn: https://www.linkedin.com/in/israel-assefa
 
 💬 Open to: Freelance, Remote, or Contract-based roles, Modern datacenter consult 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/israel-assefa)
