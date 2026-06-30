@@ -1,4 +1,4 @@
-<img src="https://github.com/Israelassefa.png" width="150" height="150" align="right" style="border-radius: 50%;" />
+<img src="https://github.com/Israelassefa.png" width="150" height="150" align="left" style="border-radius: 50%; margin-right: 15px;" />
 
 # Hi there, I'm Israel! 👋
 
