@@ -3,6 +3,8 @@
 ### Hi there, I'm Israel! 👋
 
 ### Network &Telecom Engineer |Network Security Engineer |Technical & Project Manager| Tech Enthusiast
+### 🌐 Core Network & Protocol Expertise
+<p><small>TCP/IP | HTTP/HTTPS | FTP/SFTP | SMTP/IMAP/POP3 | DNS | DHCP | SNMP | BGP | OSPF | EIGRP | IPSec | SSL/TLS | VoIP Protocols (SIP/RTP) | MPLS | SD-WAN</small></p>
 ---
 Versatile professional specializing in the design, deployment, and maintenance of advanced network and telecom systems. 
 Skilled in field operations, infrastructure optimization, and enterprise-level communication solutions. 
@@ -43,7 +45,8 @@ Served as a consulting lead at Aksum University, delivering expertise across wir
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 Protocoles
+TCP/IP |HTTP/HTTPS |FTP/SFTP|SMTP/IMAP/POP3|DNS|DHCP|SNMP |BGP|OSPF|EIGRP |IPSec|SSL/TLS|VoIP Protocols (SIP/RTP)|MPLS|SD-WAN
 
 [![Israel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=israelassefa&show_icons=true&theme=radial)](https://github.com/israelassefa)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=israelassefa&layout=compact&theme=radial)](https://github.com/israelassefa)
