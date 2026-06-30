@@ -19,7 +19,7 @@ Certified in Cisco and Check Point technologies, I combine technical benchmarkin
 `cisco` `checkpoint` `fortinet` `SDN` `SD-WAN` `Zero trust` `payton`
 
 **Tools & Databases**
-`Git` `GitHub` `Docker` `PostgreSQL` `MongoDB`
+`Nmap` `eNSP` `Cisco Packet Tracer` `PuTTY ` `Wireshark`
 
 ---
 
