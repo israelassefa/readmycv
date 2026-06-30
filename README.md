@@ -3,7 +3,6 @@
 ### Hi there, I'm Israel! 👋
 
 ### Network & Telecom Engineer | Network Security Engineer | Technical & Project Manager | Tech Enthusiast
-
 <small>`TCP/IP` `HTTP/HTTPS` `FTP/SFTP`  `SMTP/IMAP/POP3`  `DNS` `DHCP` `SNMP` `BGP` `OSPF` `EIGRP` `IPSec` 
 `SSL/TLS` `VoIP (SIP/RTP)` `MPLS` `SD-WAN`</small>
 
