@@ -1,5 +1,5 @@
 # Hi there, I'm Israel! 👋
-### Network & Telecom Filed Engineer|Network & Telecom Engineer|Network security Engineer| Tech Enthusiast
+### Network & Telecom Engineer|Network security Engineer|Technical and project manager |Tech Enthusiast
 
 Versatile professional specializing in the design, deployment, and maintenance of advanced network and telecom systems. Skilled in field operations, infrastructure optimization, and enterprise-level communication solutions. Adept at implementing robust network security measures, including firewalls, intrusion detection, and compliance frameworks, to safeguard data and ensure reliable connectivity. Combines technical expertise with hands-on troubleshooting to deliver secure, scalable, and efficient ICT environments..
 
