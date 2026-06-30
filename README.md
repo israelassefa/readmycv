@@ -1,30 +1,28 @@
-<img src="https://github.com/Israel-19.png" width="150" height="150" align="right" style="border-radius: 50%;" />
+<img src="https://github.com/Israelassefa.png" width="150" height="150" align="right" style="border-radius: 50%;" />
 
 # Hi there, I'm Israel! 👋
 ### Full-Stack Developer | Tech Enthusiast
 
-I am a passionate software engineer focused on building clean, scalable applications and solving complex problems. I love contributing to open-source projects and continuous learning.
+Versatile professional specializing in the design, deployment, and maintenance of advanced network and telecom systems. Skilled in field operations, infrastructure optimization, and enterprise-level communication solutions. Adept at implementing robust network security measures, including firewalls, intrusion detection, and compliance frameworks, to safeguard data and ensure reliable connectivity. Combines technical expertise with hands-on troubleshooting to deliver secure, scalable, and efficient ICT environments.
 
 <br clear="right" />
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **`<PROJECT_NAME>`**
-- 🌱 I’m currently learning **`<NEW_SKILL_OR_LANGUAGE>`**
-- 🤝 I’m looking to collaborate on **`<COLLABORATION_INTERESTS>`**
-- 💬 Ask me about **Frontend development, backend architectures, and clean code**
-- 📫 How to reach me: **`<YOUR_EMAIL_OR_LINKEDIN>`**
+I am a dedicated ICT and Communication Technology leader with advanced expertise in network and telecom engineering, network security, and procurement operations. My career spans hands-on field engineering, enterprise system design, and compliance-focused communication, ensuring that organizations achieve secure, scalable, and efficient connectivity.
+
+Certified in Cisco and Check Point technologies, I combine technical benchmarking with practical scenario modeling to deliver solutions that align with both global standards and local market realities. Beyond infrastructure, I drive branding and operational excellence for portfolio ventures, with a strong focus on structured comparisons, quantitative detail, and practical templates.
 
 ---
 
 ### 🛠️ My Tech Stack
 
-**Languages & Frameworks**
-`JavaScript` `TypeScript` `Python` `React` `Node.js` `Express` `HTML/CSS`
+**Vendor Product Exprince**
+`CISCO` `CHECKPOINT` `FORTINET` `SDN` `SD-WAN` `Zero Trust` `Python`
 
-**Tools & Databases**
-`Git` `GitHub` `Docker` `PostgreSQL` `MongoDB`
+**Networking Tools **
+`Wireshark` `Putty` `eNSP` `packet tracer` `Nmap`
 
 ---
 
