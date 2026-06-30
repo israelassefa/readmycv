@@ -1,3 +1,5 @@
+[![Israel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=israelassefa&show_icons=true&theme=radial)](https://github.com/israelassefa)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=israelassefa&layout=compact&theme=radial)](https://github.com/israelassefa)
 # Hi there, I'm Israel! 👋
 ### Network & Telecom Engineer|Network security Engineer|Technical and project manager |Tech Enthusiast
 
