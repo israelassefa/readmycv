@@ -26,7 +26,7 @@ Certified in Cisco and Check Point technologies, I combine technical benchmarkin
 `CISCO` `CHECKPOINT` `FORTINET` `SDN` `SD-WAN` `Zero Trust` `Python`
 
 **Networking Tools **
-`Wireshark` `Putty` `eNSP` `packet tracer` `Nmap`
+Wireshark Putty eNSP packet tracer Nmap
 
 ---
 
