@@ -10,6 +10,7 @@ Skilled in field operations, infrastructure optimization, and enterprise-level c
 Adept at implementing robust network security measures, including firewalls, intrusion detection, and
 compliance frameworks, to safeguard data and ensure reliable connectivity. 
 Combines technical expertise with hands-on troubleshooting to deliver secure, scalable, and efficient ICT environments.
+
 ---
 
 ### 🚀 About Me
