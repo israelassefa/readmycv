@@ -33,6 +33,8 @@ Certified in Cisco and Check Point technologies, I combine technical benchmarkin
 #### 2. 🛠️ [Project Name 2](https://github.com/israelassefa/project-two)
 - **Description:** An API gateway or backend tool built to handle data processing.
 - **Tech Used:** Python, Express, MongoDB
+<img width="1400" height="350" alt="1714466219361 (1)" src="https://github.com/user-attachments/assets/e84fa935-7859-49dc-aadd-d247194e1eec" />
+<img width="1400" height="350" alt="1714466219361 (1)" src="https://github.com/user-attachments/assets/c2057cff-e10a-4942-b46e-854da2092a5b" />
 
 ---
  ### 🚀 Connect with me
