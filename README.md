@@ -2,7 +2,7 @@
 
 
 # Hi there, I'm Israel! 👋
-### Full-Stack Developer | Tech Enthusiast
+### Network &Telecom Engineer |Network Security Engineer |Technical & Project Manager| Tech Enthusiast
 
 
 Versatile professional specializing in the design, deployment, and maintenance of advanced network and telecom systems. 
