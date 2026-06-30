@@ -41,9 +41,9 @@ Versatile professional specializing in the design, deployment, and maintenance o
 ---
 ###📫Connect with me
 
-📧 Email: israelassefa6@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/israel-assefa
-💬 Open to: Freelance, Remote, or Contract-based roles
+📧 Email:israelassefa6@gmail.com
+💼 LinkedIn:https://www.linkedin.com/in/israel-assefa
+💬 Open to:Freelance, Remote, or Contract-based roles
 
 ### 📊 My GitHub Stats
 
