@@ -1,7 +1,6 @@
 <img src="https://github.com/Israelassefa.png" width="150" height="150" align="right" style="border-radius: 50%;" />
 
 # Hi there, I'm Israel! 👋
----
 
 ### Network &Telecom Engineer |Network Security Engineer |Technical & Project Manager| Tech Enthusiast
 
