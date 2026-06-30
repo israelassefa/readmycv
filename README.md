@@ -35,7 +35,7 @@ Certified in Cisco and Check Point technologies, I combine technical benchmarkin
 - **Tech Used:** Python, Express, MongoDB
 
 ---
- ###📫Connect with me
+ ### 🚀 About Me###📫Connect with me
 
 💬 Open to: Modern Data Center Consulting, Freelance, Remote, or Contract-based roles
 
