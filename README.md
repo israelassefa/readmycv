@@ -34,6 +34,8 @@ Certified in Cisco and Check Point technologies, I combine technical benchmarkin
 - **Description:** An API gateway or backend tool built to handle data processing.
 - **Tech Used:** Python, Express, MongoDB
 
+---
+
 ###📫Connect with me
 
 💬 Open to: Modern Data Center Consulting, Freelance, Remote, or Contract-based roles
