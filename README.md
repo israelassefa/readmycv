@@ -3,10 +3,9 @@
 ### Hi there, I'm Israel! 👋
 
 ### Network & Telecom Engineer | Network Security Engineer | Technical & Project Manager | Tech Enthusiast
-p<small> TCP/IP | HTTP/HTTPS | FTP/SFTP | SMTP/IMAP/POP3 | DNS | DHCP | SNMP | BGP | OSPF | EIGRP | IPSec | SSL/TLS | VoIP Protocols (SIP/RTP) | MPLS | SD-WAN </small>p
+<small> TCP/IP | HTTP/HTTPS | FTP/SFTP | SMTP/IMAP/POP3 | DNS | DHCP | SNMP | BGP | OSPF | EIGRP | IPSec | SSL/TLS | VoIP Protocols (SIP/RTP) | MPLS | SD-WAN </small>
 
 ---
-
 Versatile professional specializing in the design, deployment, and maintenance of advanced network and telecom systems. 
 Skilled in field operations, infrastructure optimization, and enterprise-level communication solutions. 
 Adept at implementing robust network security measures, including firewalls, intrusion detection, and
