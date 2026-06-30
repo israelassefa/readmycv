@@ -36,7 +36,7 @@ Certified in Cisco and Check Point technologies, I combine technical benchmarkin
 
 ---
 
-###📫Connect with me
+### 📂 Featured Projects ###📫Connect with me
 
 💬 Open to: Modern Data Center Consulting, Freelance, Remote, or Contract-based roles
 
