@@ -45,7 +45,8 @@ Served as a consulting lead at Aksum University, delivering expertise across wir
 ---
 
 ### 📊 Protocoles
-TCP/IP |HTTP/HTTPS |FTP/SFTP|SMTP/IMAP/POP3|DNS|DHCP|SNMP |BGP|OSPF|EIGRP |IPSec|SSL/TLS|VoIP Protocols (SIP/RTP)|MPLS|SD-WAN
+
+TCP/IP | HTTP/HTTPS | FTP/SFTP | SMTP/IMAP/POP3 | DNS | DHCP | SNMP | BGP | OSPF | EIGRP | IPSec | SSL/TLS | VoIP Protocols (SIP/RTP) | MPLS | SD-WAN
 
 [![Israel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=israelassefa&show_icons=true&theme=radial)](https://github.com/israelassefa)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=israelassefa&layout=compact&theme=radial)](https://github.com/israelassefa)
