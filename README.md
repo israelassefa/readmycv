@@ -1,7 +1,7 @@
 # Hi there, I'm Israel! 👋
-### Full-Stack Developer | Tech Enthusiast
+### Network & Telecom filed engineer|Network & Telecom Engineer|Network security Engineer| Tech Enthusiast
 
-I am a passionate software engineer focused on building clean, scalable applications and solving complex problems. I love contributing to open-source projects and continuous learning.
+Versatile professional specializing in the design, deployment, and maintenance of advanced network and telecom systems. Skilled in field operations, infrastructure optimization, and enterprise-level communication solutions. Adept at implementing robust network security measures, including firewalls, intrusion detection, and compliance frameworks, to safeguard data and ensure reliable connectivity. Combines technical expertise with hands-on troubleshooting to deliver secure, scalable, and efficient ICT environments..
 
 ---
 
