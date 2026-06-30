@@ -6,18 +6,17 @@ Versatile professional specializing in the design, deployment, and maintenance o
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **[Name of your main project]**
-- 🌱 I’m currently learning **[A tool/language you are picking up, e.g., React, Python]**
-- 🤝 I’m looking to collaborate on **[Types of projects you like]**
-- 💬 Ask me about **Frontend development, backend architectures, and clean code**
-- 📫 How to reach me: **[Your Email or LinkedIn Link]**
+
+I am a dedicated ICT and Communication Technology leader with advanced expertise in network and telecom engineering, network security, and procurement operations. My career spans hands-on field engineering, enterprise system design, and compliance-focused communication, ensuring that organizations achieve secure, scalable, and efficient connectivity.
+
+Certified in Cisco and Check Point technologies, I combine technical benchmarking with practical scenario modeling to deliver solutions that align with both global standards and local market realities. Beyond infrastructure, I drive branding and operational excellence for portfolio ventures, with a strong focus on structured comparisons, quantitative detail, and practical templates.
 
 ---
 
 ### 🛠️ My Tech Stack
 
 **Languages & Frameworks**
-`JavaScript` `TypeScript` `Python` `React` `Node.js` `Express` `HTML/CSS`
+`cisco` `checkpoint` `fortinet` `SDN` `SD-WAN` `Zero trust` `payton`
 
 **Tools & Databases**
 `Git` `GitHub` `Docker` `PostgreSQL` `MongoDB`
@@ -43,7 +42,7 @@ Versatile professional specializing in the design, deployment, and maintenance o
 
 📧 Email:israelassefa6@gmail.com
 💼 LinkedIn:https://www.linkedin.com/in/israel-assefa
-💬 Open to:Freelance, Remote, or Contract-based roles
+💬 Open to: Modern Data Center Consulting  ,Freelance, Remote, or Contract-based roles
 
 ### 📊 My GitHub Stats
 
