@@ -38,7 +38,7 @@ Certified in Cisco and Check Point technologies, I combine technical benchmarkin
 
 📧 Email:israelassefa6@gmail.com
 💼 LinkedIn:https://www.linkedin.com/in/israel-assefa
-💬 Open to: Modern Data Center Consulting  ,Freelance, Remote, or Contract-based roles
+💬 Open to: Modern Data Center Consulting, Freelance, Remote, or Contract-based roles
 
 ### 📊 My GitHub Stats
 
