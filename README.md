@@ -32,10 +32,8 @@ Certified in Cisco and Check Point technologies, I combine technical benchmarkin
 
 ### 📂 Featured Projects
 
-#### 1. 🌟 [Project Name 1](https://github.com/Israel-199/project-one)
-- **Description:** A brief 1-2 sentence overview of what this project does.
-- **Tech Used:** React, Node.js
-- **Key Feature:** High-performance user interface with seamless API integration.
+#### 1. 🌟 [ TSEDAY Bank](https://github.com/Israel-199/project-one)
+ Network Infrastructure Project was designed around a modern SDN-based data center architecture, enabling centralized control, scalability, and enhanced security. The project modeled and implemented software-defined networking to optimize resource utilization, streamline operations, and ensure resilient connectivity for banking services.
 
 #### 2. 🛠️ [Project Name 2](https://github.com/Israel-199/project-two)
 - **Description:** An API gateway or backend tool built to handle data processing.
