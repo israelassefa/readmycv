@@ -47,5 +47,3 @@ Certified in Cisco and Check Point technologies, I combine technical benchmarkin
 
 ### 📊 My GitHub Stats
 
-[![Israel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=israelassefa&show_icons=true&theme=radial)](https://github.com/israelassefa)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=israelassefa&layout=compact&theme=radial)](https://github.com/israelassefa)
