@@ -11,8 +11,6 @@ Adept at implementing robust network security measures, including firewalls, int
 compliance frameworks, to safeguard data and ensure reliable connectivity. 
 Combines technical expertise with hands-on troubleshooting to deliver secure, scalable, and efficient ICT environments.
 
-<br clear="right" />
-
 ---
 ### 🚀 About Me
 I am a dedicated ICT and Communication Technology leader with advanced expertise in network and telecom engineering, network security, and procurement operations. My career spans hands-on field engineering, enterprise system design, and compliance-focused communication, ensuring that organizations achieve secure, scalable, and efficient connectivity.
