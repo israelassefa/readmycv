@@ -1,4 +1,3 @@
-<img src="https://github.com/1714466219361 (1).png" width="150" height="150" align="right" style="border-radius: 50%;" />
 # Hi there, I'm Israel! 👋
 ### Network & Telecom Engineer|Network security Engineer|Technical and project manager |Tech Enthusiast
 
