@@ -33,11 +33,12 @@ Certified in Cisco and Check Point technologies, I combine technical benchmarkin
 ### 📂 Featured Projects
 
 #### 1. 🌟 [ Tseday Bank](https://github.com/Israelassefa/project-one)
- The TSEDAY Bank Network Infrastructure Consulting Project focused on designing and modeling a modern SDN-based data center to enhance centralized control, scalability, and security. As a consulting engagement, the project delivered expert guidance on implementing software-defined networking to optimize resource utilization, streamline operations, and ensure resilient connectivity for critical banking services.
+The TSEDAY Bank Network Infrastructure Consulting Project focused on designing and modeling a modern SDN-based data center to enhance centralized control, scalability, and security. As a consulting engagement, the project delivered expert guidance on implementing software-defined networking to optimize resource utilization, streamline operations, and ensure resilient connectivity for critical banking services.
 
 #### 2. 🛠️ [National PKI](https://github.com/Israelassefa/project-two)
 
-The PKI Network Infrastructure Project was a compliance‑driven initiative distinct from other engagements, requiring rigorous standards and secure design. The consulting scope included detailed requirements analysis, preparation of low‑level design documentation, and full implementation to establish a robust public key infrastructure. This ensured secure authentication, data integrity, and regulatory compliance across the enterprise network.
+The PKI Network Infrastructure Project was a compliance‑driven initiative distinct from other engagements, requiring rigorous standards and secure design. The consulting scope included detailed requirements analysis, preparation of low‑level design documentation, and full implementation to establish a robust public key infrastructure. This ensured secure authentication, 
+data integrity, and regulatory compliance across the enterprise network.
 
 ---
 
