@@ -53,4 +53,9 @@ TCP/IP | HTTP/HTTPS | FTP/SFTP | SMTP/IMAP/POP3 | DNS | DHCP | SNMP | BGP | OSPF
 - **CCSA R81.20** — Check Point Certified Security Administrator
 - **NSES** — Network security expert 
   
+------
 
+### 🚀 Connect with Me
+📧 Email: israelassefa6@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/israel-assefa
+💬 Open to: Freelance, Remote, or Contract-based roles, Modern datacenter consult 
