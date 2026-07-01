@@ -66,3 +66,9 @@ TCP/IP | HTTP/HTTPS | FTP/SFTP | SMTP/IMAP/POP3 | DNS | DHCP | SNMP | BGP | OSPF
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=4169E1&width=435&lines=Let+us+build+impactful+things!" alt="Typing SVG" />
 </p>
+
+<br />
+<hr />
+<p align="center" style="color: #888888; font-size: 12px;">
+  &copy; 2026 Powered By ESRAEL. All rights reserved.
+</p>
