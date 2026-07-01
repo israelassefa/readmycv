@@ -64,5 +64,5 @@ TCP/IP | HTTP/HTTPS | FTP/SFTP | SMTP/IMAP/POP3 | DNS | DHCP | SNMP | BGP | OSPF
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=FF4757&width=435&lines=Let+us+build+impactful+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=4169E1&width=435&lines=Let+us+build+impactful+things!" alt="Typing SVG" />
 </p>
