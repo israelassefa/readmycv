@@ -1,5 +1,5 @@
 <img src="https://github.com/Israelassefa.png" width="150" height="150" align="left" style="border-radius: 50%; margin-right: 15px;" />
-
+<marquee behavior="scroll" direction="left" scrollamount="8">This text is moving!</marquee>
 ### Hi there, I'm Israel! 👋
 
 ### Network & Telecom Engineer | Network Security Engineer | Technical & Project Manager | Tech Enthusiast
