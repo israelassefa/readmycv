@@ -62,4 +62,4 @@ TCP/IP | HTTP/HTTPS | FTP/SFTP | SMTP/IMAP/POP3 | DNS | DHCP | SNMP | BGP | OSPF
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/israel-assefa) 
 
-<marquee behavior="scroll" direction="left" scrollamount="6" style="font-size: 18px; font-weight: bold; color: #ff4757;">🚀 Let us build impactful things! 🚀</marquee>
+<marquee behavior="scroll" direction="left" scrollamount="10" style="font-size: 18px; font-weight: bold; color: #ff4757;">🚀 Let us build impactful things! 🚀</marquee>
