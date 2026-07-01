@@ -67,5 +67,5 @@ TCP/IP | HTTP/HTTPS | FTP/SFTP | SMTP/IMAP/POP3 | DNS | DHCP | SNMP | BGP | OSPF
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y1bTh6Y3d5bml5NHVjZmZsdm92dm4xeXpncms3ZmU3MXg1bW1mYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssN160g2LpMwiuVn3/giphy.gif" width="300" alt="Tech Animation" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y1bTh6Y3d5bml5NHVjZmZsdm92dm4xeXpncms3ZmU3MXg1bW1mYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssN160g2LpMwiuVn3/giphy.gif" width="300" alt="Networking Animation" />
 </p>
