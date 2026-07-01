@@ -62,10 +62,7 @@ TCP/IP | HTTP/HTTPS | FTP/SFTP | SMTP/IMAP/POP3 | DNS | DHCP | SNMP | BGP | OSPF
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/israel-assefa) 
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=4169E18&width=435&lines=%F0%9F%9A%80+Let+us+build+impactful+things!+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y1bTh6Y3d5bml5NHVjZmZsdm92dm4xeXpncms3ZmU3MXg1bW1mYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssN160g2LpMwiuVn3/giphy.gif" width="300" alt="Networking Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=FF4757&width=435&lines=Let+us+build+impactful+things!" alt="Typing SVG" />
 </p>
