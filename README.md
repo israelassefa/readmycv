@@ -1,5 +1,5 @@
 <img src="https://github.com/Israelassefa.png" width="150" height="150" align="left" style="border-radius: 50%; margin-right: 15px;" />
-<marquee behavior="scroll" direction="left" scrollamount="8">This text is moving!</marquee>
+
 ### Hi there, I'm Israel! 👋
 
 ### Network & Telecom Engineer | Network Security Engineer | Technical & Project Manager | Tech Enthusiast
@@ -61,3 +61,5 @@ TCP/IP | HTTP/HTTPS | FTP/SFTP | SMTP/IMAP/POP3 | DNS | DHCP | SNMP | BGP | OSPF
 💬 Open to: Freelance, Remote, or Contract-based roles, Modern datacenter consult 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/israel-assefa) 
+
+<marquee behavior="scroll" direction="left" scrollamount="6" style="font-size: 18px; font-weight: bold; color: #ff4757;">🚀 Let us build impactful things! 🚀</marquee>
