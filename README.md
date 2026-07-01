@@ -70,5 +70,5 @@ TCP/IP | HTTP/HTTPS | FTP/SFTP | SMTP/IMAP/POP3 | DNS | DHCP | SNMP | BGP | OSPF
 <br />
 <hr />
 <p align="center" style="color: #888888; font-size: 12px;">
-  &copy; 2026 Powered By ESRAEL. All rights reserved.
+  &copy; 2026 Powered By ESRAEL. All Rights Reserved.
 </p>
